@@ -35,3 +35,5 @@ os templates
 1. [X] Instalando Dependencias e estruturando a documentação do projeto.
 
 1. [X] Rodando servidor.
+
+1. [X] Rodando EJS.
