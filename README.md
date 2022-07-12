@@ -32,4 +32,6 @@ os templates
 # npm install nodemon --save-dev
 
 
-[X]. Instalando Dependencias e estruturando a documentação do projeto.
+1. [X] Instalando Dependencias e estruturando a documentação do projeto.
+
+1. [X] Rodando servidor.
